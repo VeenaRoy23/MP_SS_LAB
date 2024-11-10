@@ -25,7 +25,7 @@ void check()
 
 int main()
 {
-	fp1=fopen("inputa.txt","r");
+	fp1=fopen("input.txt","r");
 	fp2=fopen("output.txt","w");
 	fscanf(fp1,"%s",input);
 	
